@@ -1,0 +1,645 @@
+{
+    "count": 6,
+    "value": [
+        {
+            "id": "12216745-e366-441c-8513-c669e704fa07",
+            "name": "Sprint 1",
+            "path": "Registro de apontamentos\\Sprint 1",
+            "attributes": {
+                "startDate": null,
+                "finishDate": null,
+                "timeFrame": "current"
+            },
+            "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07"
+        },
+        {
+            "id": "b0caf3a2-e2eb-4783-ad37-cbc1bfa7ec99",
+            "name": "Sprint 2",
+            "path": "Registro de apontamentos\\Sprint 2",
+            "attributes": {
+                "startDate": null,
+                "finishDate": null,
+                "timeFrame": "future"
+            },
+            "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/b0caf3a2-e2eb-4783-ad37-cbc1bfa7ec99"
+        },
+        {
+            "id": "4734482e-27a4-4142-b6b2-c76a6b180e74",
+            "name": "Sprint 3",
+            "path": "Registro de apontamentos\\Sprint 3",
+            "attributes": {
+                "startDate": null,
+                "finishDate": null,
+                "timeFrame": "future"
+            },
+            "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/4734482e-27a4-4142-b6b2-c76a6b180e74"
+        },
+        {
+            "id": "aa4d4fed-89ef-4c8c-97d2-a1f9590088e7",
+            "name": "Sprint 4",
+            "path": "Registro de apontamentos\\Sprint 4",
+            "attributes": {
+                "startDate": null,
+                "finishDate": null,
+                "timeFrame": "future"
+            },
+            "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/aa4d4fed-89ef-4c8c-97d2-a1f9590088e7"
+        },
+        {
+            "id": "4031be7d-f988-451e-8467-3709b7f7556a",
+            "name": "Sprint 5",
+            "path": "Registro de apontamentos\\Sprint 5",
+            "attributes": {
+                "startDate": null,
+                "finishDate": null,
+                "timeFrame": "future"
+            },
+            "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/4031be7d-f988-451e-8467-3709b7f7556a"
+        },
+        {
+            "id": "b7240225-8942-4eab-a496-761c34999d9b",
+            "name": "Sprint 6",
+            "path": "Registro de apontamentos\\Sprint 6",
+            "attributes": {
+                "startDate": null,
+                "finishDate": null,
+                "timeFrame": "future"
+            },
+            "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/b7240225-8942-4eab-a496-761c34999d9b"
+        }
+    ]
+}
+// Sprint individual
+{
+    "id": "12216745-e366-441c-8513-c669e704fa07",
+    "name": "Sprint 1",
+    "path": "Registro de apontamentos\\Sprint 1",
+    "attributes": {
+        "startDate": null,
+        "finishDate": null,
+        "timeFrame": "current"
+    },
+    "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07",
+    "_links": {
+        "self": {
+            "Design; Front-end"
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07"
+        },
+        "project": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/projects/32d4cbca-6a87-4116-bc78-36618ae22421"
+        },
+        "team": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/projects/32d4cbca-6a87-4116-bc78-36618ae22421/teams/acbc19a0-4bde-4c66-b24c-731db502e061"
+        },
+        "teamSettings": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings"
+        },
+        "teamIterations": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations"
+        },
+        "capacity": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07/capacities"
+        },
+        "workitems": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07/workitems"
+        },
+        "classificationNode": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/classificationNodes/Iterations/Sprint%201"
+        },
+        "teamDaysOff": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07/teamdaysoff"
+        }
+    }
+}
+// Lista de Work itens 
+{
+    "workItemRelations": [
+        {
+            "rel": null,
+            "source": null,
+            "target": {
+                "id": 1,
+                "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/wit/workItems/1"
+            }
+        },
+        {
+            "rel": null,
+            "source": null,
+            "target": {
+                "id": 2,
+                "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/wit/workItems/2"
+            }
+        },
+        {
+            "rel": null,
+            "source": null,
+            "target": {
+                "id": 3,
+                "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/wit/workItems/3"
+            }
+        },
+        {
+            "rel": null,
+            "source": null,
+            "target": {
+                "id": 4,
+                "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/wit/workItems/4"
+            }
+        },
+        {
+            "rel": null,
+            "source": null,
+            "target": {
+                "id": 5,
+                "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/wit/workItems/5"
+            }
+        }
+    ],
+    "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07/workitems",
+    "_links": {
+        "self": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07/workitems"
+        },
+        "project": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/projects/32d4cbca-6a87-4116-bc78-36618ae22421"
+        },
+        "team": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/projects/32d4cbca-6a87-4116-bc78-36618ae22421/teams/acbc19a0-4bde-4c66-b24c-731db502e061"
+        },
+        "teamIteration": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07"
+        }
+    }
+}
+// Work item 4 indivual
+{
+    "id": 4,
+    "rev": 3,
+    "fields": {
+        "System.AreaPath": "Registro de apontamentos",
+        "System.TeamProject": "Registro de apontamentos",
+        "System.IterationPath": "Registro de apontamentos\\Sprint 1",
+        "System.WorkItemType": "Product Backlog Item",
+        "System.State": "New",
+        "System.Reason": "New backlog item",
+        "System.CreatedDate": "2020-09-27T15:56:26.11Z",
+        "System.CreatedBy": {
+            "displayName": "Ronaldo Luiz",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A4187ae1a-63df-4245-906e-c54d160e3b81/_apis/Identities/e4a8097b-6092-641e-97c6-5554852a34dd",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/GraphProfile/MemberAvatars/msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk"
+                }
+            },
+            "id": "e4a8097b-6092-641e-97c6-5554852a34dd",
+            "uniqueName": "ronaldoluizcp@gmail.com",
+            "imageUrl": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/GraphProfile/MemberAvatars/msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk",
+            "descriptor": "msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk"
+        },
+        "System.ChangedDate": "2020-09-27T15:57:21.907Z",
+        "System.ChangedBy": {
+            "displayName": "Ronaldo Luiz",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A4187ae1a-63df-4245-906e-c54d160e3b81/_apis/Identities/e4a8097b-6092-641e-97c6-5554852a34dd",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/GraphProfile/MemberAvatars/msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk"
+                }
+            },
+            "id": "e4a8097b-6092-641e-97c6-5554852a34dd",
+            "uniqueName": "ronaldoluizcp@gmail.com",
+            "imageUrl": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/GraphProfile/MemberAvatars/msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk",
+            "descriptor": "msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Crude entre a aplicação e DB",
+        "System.BoardColumn": "New",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-09-27T15:56:26.11Z",
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "Microsoft.VSTS.Common.BacklogPriority": 999869562.0,
+        "WEF_51E9EEA18F6542DFA512C395E1D88BB2_Kanban.Column": "New",
+        "WEF_51E9EEA18F6542DFA512C395E1D88BB2_Kanban.Column.Done": false
+    },
+    "_links": {
+        "self": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItems/4"
+        },
+        "workItemUpdates": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItems/4/updates"
+        },
+        "workItemRevisions": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItems/4/revisions"
+        },
+        "workItemComments": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItems/4/comments"
+        },
+        "html": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_workitems/edit/4"
+        },
+        "workItemType": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItemTypes/Product%20Backlog%20Item"
+        },
+        "fields": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/fields"
+        }
+    },
+    "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItems/4"
+}
+// Work item 1 individual
+{
+    "id": 1,
+    "rev": 4,
+    "fields": {
+        "System.AreaPath": "Registro de apontamentos",
+        "System.TeamProject": "Registro de apontamentos",
+        "System.IterationPath": "Registro de apontamentos\\Sprint 1",
+        "System.WorkItemType": "Product Backlog Item",
+        "System.State": "New",
+        "System.Reason": "New backlog item",
+        "System.CreatedDate": "2020-09-27T15:55:02.01Z",
+        "System.CreatedBy": {
+            "displayName": "Ronaldo Luiz",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A4187ae1a-63df-4245-906e-c54d160e3b81/_apis/Identities/e4a8097b-6092-641e-97c6-5554852a34dd",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/GraphProfile/MemberAvatars/msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk"
+                }
+            },
+            "id": "e4a8097b-6092-641e-97c6-5554852a34dd",
+            "uniqueName": "ronaldoluizcp@gmail.com",
+            "imageUrl": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/GraphProfile/MemberAvatars/msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk",
+            "descriptor": "msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk"
+        },
+        "System.ChangedDate": "2020-09-27T15:57:16.74Z",
+        "System.ChangedBy": {
+            "displayName": "Ronaldo Luiz",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A4187ae1a-63df-4245-906e-c54d160e3b81/_apis/Identities/e4a8097b-6092-641e-97c6-5554852a34dd",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/GraphProfile/MemberAvatars/msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk"
+                }
+            },
+            "id": "e4a8097b-6092-641e-97c6-5554852a34dd",
+            "uniqueName": "ronaldoluizcp@gmail.com",
+            "imageUrl": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/GraphProfile/MemberAvatars/msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk",
+            "descriptor": "msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Modelar aplicação",
+        "System.BoardColumn": "New",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-09-27T15:55:02.01Z",
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "Microsoft.VSTS.Common.BacklogPriority": 999841894.0,
+        "WEF_51E9EEA18F6542DFA512C395E1D88BB2_Kanban.Column": "New",
+        "WEF_51E9EEA18F6542DFA512C395E1D88BB2_Kanban.Column.Done": false
+    },
+    "_links": {
+        "self": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItems/1"
+        },
+        "workItemUpdates": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItems/1/updates"
+        },
+        "workItemRevisions": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItems/1/revisions"
+        },
+        "workItemComments": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItems/1/comments"
+        },
+        "html": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_workitems/edit/1"
+        },
+        "workItemType": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItemTypes/Product%20Backlog%20Item"
+        },
+        "fields": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/fields"
+        }
+    },
+    "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItems/1"
+}
+
+
+{
+    "id": "12216745-e366-441c-8513-c669e704fa07",
+    "name": "Sprint 1",
+    "path": "Registro de apontamentos\\Sprint 1",
+    "attributes": {
+        "startDate": null,
+        "finishDate": null,
+        "timeFrame": "current"
+    },
+    "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07",
+    "_links": {
+        "self": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07"
+        },
+        "project": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/projects/32d4cbca-6a87-4116-bc78-36618ae22421"
+        },
+        "team": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/projects/32d4cbca-6a87-4116-bc78-36618ae22421/teams/acbc19a0-4bde-4c66-b24c-731db502e061"
+        },
+        "teamSettings": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings"
+        },
+        "teamIterations": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations"
+        },
+        "capacity": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07/capacities"
+        },
+        "workitems": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07/workitems"
+        },
+        "classificationNode": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/classificationNodes/Iterations/Sprint%201"
+        },
+        "teamDaysOff": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07/teamdaysoff"
+        }
+    } "Design; Front-end"
+}
+
+
+
+{
+    "workItemRelations": [
+        {
+            "rel": null,
+            "source": null,
+            "target": {
+                "id": 1,
+                "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/wit/workItems/1"
+            }
+        },
+        {
+            "rel": null,
+            "source": null,
+            "target": {
+                "id": 2,
+                "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/wit/workItems/2"
+            }
+        },
+        {
+            "rel": null,
+            "source": null,
+            "target": {
+                "id": 3,
+                "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/wit/workItems/3"
+            }
+        },
+        {
+            "rel": null,
+            "source": null,
+            "target": {
+                "id": 4,
+                "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/wit/workItems/4"
+            }
+        },
+        {
+            "rel": null,
+            "source": null,
+            "target": {
+                "id": 5,
+                "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/wit/workItems/5"
+            }
+        }
+    ],
+    "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07/workitems",
+    "_links": {
+        "self": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07/workitems"
+        },
+        "project": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/projects/32d4cbca-6a87-4116-bc78-36618ae22421"
+        },
+        "team": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/projects/32d4cbca-6a87-4116-bc78-36618ae22421/teams/acbc19a0-4bde-4c66-b24c-731db502e061"
+        },
+        "teamIteration": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07"
+        }
+    }
+}
+
+
+{
+    "id": 2,
+    "rev": 5,
+    "fields": {
+        "System.AreaPath": "Registro de apontamentos",
+        "System.TeamProject": "Registro de apontamentos",
+        "System.IterationPath": "Registro de apontamentos\\Sprint 1",
+        "System.WorkItemType": "Product Backlog Item",
+        "System.State": "New",
+        "System.Reason": "New backlog item",
+        "System.CreatedDate": "2020-09-27T15:55:51.377Z",
+        "System.CreatedBy": {
+            "displayName": "Ronaldo Luiz",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A4187ae1a-63df-4245-906e-c54d160e3b81/_apis/Identities/e4a8097b-6092-641e-97c6-5554852a34dd",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/GraphProfile/MemberAvatars/msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk"
+                }
+            },
+            "id": "e4a8097b-6092-641e-97c6-5554852a34dd",
+            "uniqueName": "ronaldoluizcp@gmail.com",
+            "imageUrl": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/GraphProfile/MemberAvatars/msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk",
+            "descriptor": "msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk"
+        },
+        "System.ChangedDate": "2021-07-19T23:02:35.35Z",
+        "System.ChangedBy": {
+            "displayName": "Ronaldo Luiz",
+            "url": "https://spsprodsbr1.vssps.visualstudio.com/A4187ae1a-63df-4245-906e-c54d160e3b81/_apis/Identities/e4a8097b-6092-641e-97c6-5554852a34dd",
+            "_links": {
+                "avatar": {
+                    "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/GraphProfile/MemberAvatars/msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk"
+                }
+            },
+            "id": "e4a8097b-6092-641e-97c6-5554852a34dd",
+            "uniqueName": "ronaldoluizcp@gmail.com",
+            "imageUrl": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/GraphProfile/MemberAvatars/msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk",
+            "descriptor": "msa.ZTRhODA5N2ItNjA5Mi03NDFlLTk3YzYtNTU1NDg1MmEzNGRk"
+        },
+        "System.CommentCount": 0,
+        "System.Title": "Desenvolvimento da tela(Front)",
+        "System.BoardColumn": "New",
+        "System.BoardColumnDone": false,
+        "Microsoft.VSTS.Common.StateChangeDate": "2020-09-27T15:55:51.377Z",
+        "Microsoft.VSTS.Common.Priority": 2,
+        "Microsoft.VSTS.Common.ValueArea": "Business",
+        "Microsoft.VSTS.Common.BacklogPriority": 999857704.0,
+        "WEF_51E9EEA18F6542DFA512C395E1D88BB2_Kanban.Column": "New",
+        "WEF_51E9EEA18F6542DFA512C395E1D88BB2_Kanban.Column.Done": false,
+        "System.Description": "<div>Cabeça de urubu sonho de valsa</div>",
+        "System.Tags": "Design; Front-end"
+    },
+    "_links": {
+        "self": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItems/2"
+        },
+        "workItemUpdates": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItems/2/updates"
+        },
+        "workItemRevisions": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItems/2/revisions"
+        },
+        "workItemComments": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItems/2/comments"
+        },
+        "html": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_workitems/edit/2"
+        },
+        "workItemType": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItemTypes/Product%20Backlog%20Item"
+        },
+        "fields": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/fields"
+        }
+    },
+    "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/workItems/2"
+}
+
+
+
+
+
+
+{
+    "count": 6,
+    "value": [
+        {
+            "id": "12216745-e366-441c-8513-c669e704fa07",
+            "name": "Sprint 1",
+            "path": "Registro de apontamentos\\Sprint 1",
+            "attributes": {
+                "startDate": null,
+                "finishDate": null,
+                "timeFrame": "current"
+            },
+            "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07"
+        },
+        {
+            "id": "b0caf3a2-e2eb-4783-ad37-cbc1bfa7ec99",
+            "name": "Sprint 2",
+            "path": "Registro de apontamentos\\Sprint 2",
+            "attributes": {
+                "startDate": null,
+                "finishDate": null,
+                "timeFrame": "future"
+            },
+            "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/b0caf3a2-e2eb-4783-ad37-cbc1bfa7ec99"
+        },
+        {
+            "id": "4734482e-27a4-4142-b6b2-c76a6b180e74",
+            "name": "Sprint 3",
+            "path": "Registro de apontamentos\\Sprint 3",
+            "attributes": {
+                "startDate": null,
+                "finishDate": null,
+                "timeFrame": "future"
+            },
+            "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/4734482e-27a4-4142-b6b2-c76a6b180e74"
+        },
+        {
+            "id": "aa4d4fed-89ef-4c8c-97d2-a1f9590088e7",
+            "name": "Sprint 4",
+            "path": "Registro de apontamentos\\Sprint 4",
+            "attributes": {
+                "startDate": null,
+                "finishDate": null,
+                "timeFrame": "future"
+            },
+            "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/aa4d4fed-89ef-4c8c-97d2-a1f9590088e7"
+        },
+        {
+            "id": "4031be7d-f988-451e-8467-3709b7f7556a",
+            "name": "Sprint 5",
+            "path": "Registro de apontamentos\\Sprint 5",
+            "attributes": {
+                "startDate": null,
+                "finishDate": null,
+                "timeFrame": "future"
+            },
+            "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/4031be7d-f988-451e-8467-3709b7f7556a"
+        },
+        {
+            "id": "b7240225-8942-4eab-a496-761c34999d9b",
+            "name": "Sprint 6",
+            "path": "Registro de apontamentos\\Sprint 6",
+            "attributes": {
+                "startDate": null,
+                "finishDate": null,
+                "timeFrame": "future"
+            },
+            "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/b7240225-8942-4eab-a496-761c34999d9b"
+        }
+    ]
+}
+
+
+
+
+
+{
+    "backlogIteration": {
+        "id": "f7f5394a-771f-46db-b28e-739e4f39c6f4",
+        "name": "Registro de apontamentos",
+        "path": "",
+        "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/classificationNodes/Iterations"
+    },
+    "bugsBehavior": "asRequirements",
+    "workingDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday"
+    ],
+    "backlogVisibilities": {
+        "Microsoft.FeatureCategory": true,
+        "Microsoft.EpicCategory": false,
+        "Microsoft.RequirementCategory": true
+    },
+    "defaultIteration": {
+        "id": "12216745-e366-441c-8513-c669e704fa07",
+        "name": "Sprint 1",
+        "path": "\\Sprint 1",
+        "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/classificationNodes/Iterations/Sprint%201"
+    },
+    "defaultIterationMacro": "@currentIteration",
+    "url": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings",
+    "_links": {
+        "self": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings"
+        },
+        "project": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/projects/32d4cbca-6a87-4116-bc78-36618ae22421"
+        },
+        "team": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/_apis/projects/32d4cbca-6a87-4116-bc78-36618ae22421/teams/acbc19a0-4bde-4c66-b24c-731db502e061"
+        },
+        "teamIterations": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations"
+        },
+        "teamFieldValues": {
+            "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/teamfieldvalues"
+        },
+        "classificationNode": [
+            {
+                "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/classificationNodes/Iterations"
+            },
+            {
+                "href": "https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/_apis/wit/classificationNodes/Iterations/Sprint%201"
+            }
+        ]
+    }
+}
+
+
+
+"{\"count\":6,\"value\":[{\"id\":\"12216745-e366-441c-8513-c669e704fa07\",\"name\":\"Sprint 1\",\"path\":\"Registro de apontamentos\\\\Sprint 1\",\"attributes\":{\"startDate\":null,\"finishDate\":null,\"timeFrame\":\"current\"},\"url\":\"https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/12216745-e366-441c-8513-c669e704fa07\"},{\"id\":\"b0caf3a2-e2eb-4783-ad37-cbc1bfa7ec99\",\"name\":\"Sprint 2\",\"path\":\"Registro de apontamentos\\\\Sprint 2\",\"attributes\":{\"startDate\":null,\"finishDate\":null,\"timeFrame\":\"future\"},\"url\":\"https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/b0caf3a2-e2eb-4783-ad37-cbc1bfa7ec99\"},{\"id\":\"4734482e-27a4-4142-b6b2-c76a6b180e74\",\"name\":\"Sprint 3\",\"path\":\"Registro de apontamentos\\\\Sprint 3\",\"attributes\":{\"startDate\":null,\"finishDate\":null,\"timeFrame\":\"future\"},\"url\":\"https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/4734482e-27a4-4142-b6b2-c76a6b180e74\"},{\"id\":\"aa4d4fed-89ef-4c8c-97d2-a1f9590088e7\",\"name\":\"Sprint 4\",\"path\":\"Registro de apontamentos\\\\Sprint 4\",\"attributes\":{\"startDate\":null,\"finishDate\":null,\"timeFrame\":\"future\"},\"url\":\"https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/aa4d4fed-89ef-4c8c-97d2-a1f9590088e7\"},{\"id\":\"4031be7d-f988-451e-8467-3709b7f7556a\",\"name\":\"Sprint 5\",\"path\":\"Registro de apontamentos\\\\Sprint 5\",\"attributes\":{\"startDate\":null,\"finishDate\":null,\"timeFrame\":\"future\"},\"url\":\"https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/4031be7d-f988-451e-8467-3709b7f7556a\"},{\"id\":\"b7240225-8942-4eab-a496-761c34999d9b\",\"name\":\"Sprint 6\",\"path\":\"Registro de apontamentos\\\\Sprint 6\",\"attributes\":{\"startDate\":null,\"finishDate\":null,\"timeFrame\":\"future\"},\"url\":\"https://dev.azure.com/Alfa-Projects-Ronaldo/32d4cbca-6a87-4116-bc78-36618ae22421/acbc19a0-4bde-4c66-b24c-731db502e061/_apis/work/teamsettings/iterations/b7240225-8942-4eab-a496-761c34999d9b\"}]}"
